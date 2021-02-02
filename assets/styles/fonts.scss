@@ -1,0 +1,14 @@
+/*
+** Fonts
+*/
+
+$font-path: '~assets/fonts/';
+
+@layer base {
+	@font-face {
+		font-family: 'Manrope';
+		src: url('#{$font-path}/Manrope.ttf') format('truetype supports variations'),
+				 url('#{$font-path}/Manrope.ttf') format('truetype-variations');
+		font-weight: 200 800;
+	}
+}
