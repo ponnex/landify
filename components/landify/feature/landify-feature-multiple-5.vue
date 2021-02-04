@@ -1,7 +1,7 @@
 <template>
 	<landify-block-template class="py-16">
 		<div class="mb-12 px-60">
-			<h2 class="font-extrabold leading-10 mb-0.5 text-5xl text-center">
+			<h2 class="font-extrabold leading-10 mb-2 text-5xl text-center">
 				Tailor-made features
 			</h2>
 			<span

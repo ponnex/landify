@@ -7,16 +7,19 @@
 					About
 				</n-link>
 				<n-link tag="a" :to="'/'">
-					Services
+					Features
 				</n-link>
 				<n-link tag="a" :to="'/'">
-					Blog
+					Pricing
 				</n-link>
 				<n-link tag="a" :to="'/'">
-					Jobs
+					Careers
 				</n-link>
 				<n-link tag="a" :to="'/'">
-					Contact
+					Help
+				</n-link>
+				<n-link tag="a" :to="'/'">
+					Privacy Policy
 				</n-link>
 			</div>
 			<div class="divider bg-gray-500 opacity-20 mb-6" />
