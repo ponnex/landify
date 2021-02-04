@@ -15,7 +15,7 @@
 				<img src="@/assets/images/phone-mockup.png" alt="phone-mockup" class="-mr-12">
 			</div>
 			<logo-clouds-1 />
-			<div class="h-20 mb-5 mt-20" />
+			<landify-feature-multiple-5 />
 		</div>
 	</div>
 </template>
