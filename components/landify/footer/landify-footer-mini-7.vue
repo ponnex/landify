@@ -1,6 +1,6 @@
 <template>
 	<div class=" bg-black text-white">
-		<div class="flex flex-col max-w-screen-lg mx-auto h-64 pt-12 md:px-20 xl:px-0">
+		<landify-block-template class="flex flex-col h-64 pt-12">
 			<landify-icon :reverse="true" class="mb-8" />
 			<div class="justify-self-center self-center space-x-6 mb-12">
 				<n-link tag="a" :to="'/'">
@@ -24,7 +24,7 @@
 				<span class="text-gray-300">© 2020 Landify UI Kit. All rights reserved</span>
 				<landify-social-icon />
 			</div>
-		</div>
+		</landify-block-template>
 	</div>
 </template>
 
