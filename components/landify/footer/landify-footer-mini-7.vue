@@ -1,5 +1,5 @@
 <template>
-	<div class=" bg-black text-white">
+	<footer class="bg-black text-white">
 		<landify-block-template class="flex flex-col h-64 pt-12">
 			<landify-icon :reverse="true" class="mb-8" />
 			<div class="justify-self-center self-center space-x-6 mb-12">
@@ -28,7 +28,7 @@
 				<landify-social-icon />
 			</div>
 		</landify-block-template>
-	</div>
+	</footer>
 </template>
 
 <script lang="ts">
