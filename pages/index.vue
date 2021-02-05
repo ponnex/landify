@@ -3,6 +3,7 @@
 		<landify-hero-3 />
 		<landify-logo-clouds-1 />
 		<landify-feature-multiple-5 />
+		<landify-testimonial-7 />
 	</div>
 </template>
 
