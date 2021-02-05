@@ -201,7 +201,7 @@
 									<span class="block text-lg font-bold">Kristin Watson</span>
 									<span
 										class="block text-sm text-gray-700"
-									>Kristin Watson</span>
+									>Co-Founder, BookMyShow</span>
 								</div>
 							</div>
 						</div>
